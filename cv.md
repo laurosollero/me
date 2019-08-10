@@ -1,5 +1,5 @@
 # Lauro Sollero
-laurosollero@gmail.com
+[laurosollero@gmail.com](mailto:laurosollero@gmail.com)
 
 # Experiência profissional
 
