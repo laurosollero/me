@@ -1,4 +1,4 @@
-# Lauro Cesar Sollero
+# Lauro Sollero
 
 ## Experiência profissional
 
