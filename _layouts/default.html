@@ -20,15 +20,8 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      <header>
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
-
       <section>
-      {{ content }}
+        {{ content }}
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
