@@ -1,3 +1,9 @@
+# Firebase - Introdução
+
+Pretendo lançar uma série de artigos discutindo o Firebase, as razões do Google para migrar, como usar, como ler, como integrar com o Google Analytics. Este é o primeiro deles.
+
+---
+
 O Google tomou uma decisão de que todos os aplicativos móveis devem migrar para Firebase Analytics. Estão descontinuando o Google Analytics para estes dispositivos. E agora? O Firebase é uma plataforma de serviços e APIs bastante completa, rápida e poderosa. Fácil entender os motivos do Google.
 
 O Firebase Analytics, FA, adota uma série de conceitos diferentes do Google Analytics, GA, como sessão, estrutura de eventos e dimensões customizadas, para ficar nos principais.
